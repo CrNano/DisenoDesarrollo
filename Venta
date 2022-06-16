@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.proye01.controller;
+
+/**
+ *
+ * @author johan
+ */
+public class Venta {
+    public String TipoDeAsiento;
+    public String TipoDeVenta;
+    public String Vendedor;
+    public String Asiento;
+    public String Cliente;
+    public String Venta;
+}
