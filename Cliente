@@ -8,7 +8,8 @@ package com.mycompany.proye01.controller;
  *
  * @author johan
  */
-public class Cliente {
+public class Cliente
+{
     public String cedula;
     public String nombre;
     public String apellido;
