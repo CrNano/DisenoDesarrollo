@@ -8,7 +8,8 @@ package com.mycompany.proye01.controller;
  *
  * @author johan
  */
-public class Venta {
+public class Venta 
+{
     public String TipoDeAsiento;
     public String TipoDeVenta;
     public String Vendedor;
