@@ -10,4 +10,5 @@ package com.mycompany.proye01.controller;
  */
 public class Informe {
     public String VentasRes;
+    hola
 }
