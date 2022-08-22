@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author johan
+ * @author diana
  */
 public class Datos {
 
